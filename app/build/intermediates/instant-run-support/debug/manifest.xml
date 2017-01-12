@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sarkar.smart_bicycle"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/SmartCycleTheme" >
+        <activity
+            android:name="com.example.sarkar.smart_bicycle.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/SmartCycleTheme" >
+            <intent-filter android:label="@string/app_name" >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.sarkar.smart_bicycle.AnalysisActivity"
+            android:label="@string/title_activity_analysis"
+            android:parentActivityName="com.example.sarkar.smart_bicycle.MainActivity"
+            android:theme="@style/SmartCycleTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarkar.smart_bicycle.MainActivity" />
+        </activity>
+        <activity android:name="com.example.sarkar.smart_bicycle.Encryption" />
+        <activity
+            android:name="com.example.sarkar.smart_bicycle.ProfileActivity"
+            android:label="@string/title_activity_profile"
+            android:parentActivityName="com.example.sarkar.smart_bicycle.MainActivity"
+            android:theme="@style/SmartCycleTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarkar.smart_bicycle.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.sarkar.smart_bicycle.ViewDataActivity"
+            android:label="@string/title_activity_view_data"
+            android:parentActivityName="com.example.sarkar.smart_bicycle.MainActivity"
+            android:theme="@style/SmartCycleTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarkar.smart_bicycle.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.sarkar.smart_bicycle.RideActivity"
+            android:label="@string/title_activity_ride"
+            android:parentActivityName="com.example.sarkar.smart_bicycle.MainActivity"
+            android:theme="@style/SmartCycleTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarkar.smart_bicycle.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

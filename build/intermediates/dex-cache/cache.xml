@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_ff08ff2096e63db6f1a2f247cdf628b2671f6c71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_2d66dfc9a5a8f4104897149c53c437b4b2f2e8f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jjoe64-graphview-4.2.1_75b0919cb1a69e06eb0d1918d8cee4b32213ae06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_780421cca4a3e76fb7e9a2c57b25d64d66f1e6ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gaurav mishra\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_b83622c0f70c4e6cb34ebef45faa3239d0a0e848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_bed5fad38a15632998082824116ddda45b575603\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_d642c04803ebb277d562b61162c9855f216b631c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="619b7d62308ff2df985149b7e2e92334018aaf55">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_21ad57142e8033e952abea9bbbc46bb9cc66665b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_2b5d075d2727c77f7929c87e19c8e6f17e7a5d92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_dd211a90fa10c49dd4680479992bcc32e47cdac7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gaurav mishra\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_d57f2ae57078d5c7bcaea2a5d79325436d5454c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="74aa62bf4c47b1938840a60d21f21b33c20bc604">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3c01be6f162315ed9f467022a492f1444b7ff4c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7\classes.dex" />
+    </item>
+
+</items>
