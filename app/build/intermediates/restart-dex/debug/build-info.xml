@@ -5,39 +5,32 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="719873385092801"
+    timestamp="114525113618727"
     token="-4883869214282056236"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1326" />
+        duration="16448" />
     <task
         name="instant-run-dex"
-        duration="50" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="79" />
+        duration="1256" />
     <task
         name="verifier"
-        duration="24" />
+        duration="58" />
 
     <artifact
-        location="P:\Android apps\Smart_Bicycle\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="P:\Android apps\Smart_Bicycle\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build
-        timestamp="719766570447194"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="P:\Android apps\Smart_Bicycle\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
-    </build>
     <build
         timestamp="719873385092801"
         verifier="COMPATIBLE" >
         <artifact
-            location="P:\Android apps\Smart_Bicycle\app\build\intermediates\reload-dex\debug\classes.dex"
+            location="P:\Android apps\Smart_Bicycle\app\build\intermediates\builds\debug\719873385092801\classes.dex"
             type="RELOAD_DEX" />
     </build>
 

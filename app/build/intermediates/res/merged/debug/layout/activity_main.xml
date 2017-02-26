@@ -71,6 +71,8 @@
                     android:onClick="onRide"
                     android:contentDescription="@string/start_ride"
                     android:scaleType="fitXY"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
                     style="@android:style/Widget.DeviceDefault.ImageButton"
                     android:id="@+id/startRide" />
 
@@ -135,6 +137,8 @@
                     android:inputType="numberPassword"
                     android:ems="10"
                     android:id="@+id/password"
+                    android:nextFocusUp="@id/password"
+                    android:nextFocusLeft="@id/password"
                     android:layout_weight="1"
                     android:gravity="center"
                     android:textColor="?attr/colorAccent"

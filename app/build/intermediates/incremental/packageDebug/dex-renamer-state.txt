@@ -1,4 +1,4 @@
-#Sun Jan 08 21:47:37 IST 2017
+#Wed Feb 08 21:59:06 IST 2017
 base.0=P\:\\Android apps\\Smart_Bicycle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3c01be6f162315ed9f467022a492f1444b7ff4c3
 renamed.1=classes.dex
 renamed.0=classes2.dex

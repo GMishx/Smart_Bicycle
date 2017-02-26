@@ -66,6 +66,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.sarkar.smart_bicycle.MainActivity" />
         </activity>
+
+        <service
+            android:name="com.example.sarkar.smart_bicycle.BluetoothHandlerService"
+            android:enabled="true"
+            android:exported="false" />
     </application>
 
 </manifest>

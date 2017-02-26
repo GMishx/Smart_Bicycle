@@ -21,24 +21,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="987adec819c9a98faf215814f41195da48fc724e">
-        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jjoe64-graphview-4.2.1_75b0919cb1a69e06eb0d1918d8cee4b32213ae06\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_780421cca4a3e76fb7e9a2c57b25d64d66f1e6ca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\gaurav mishra\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
         jumboMode="true"
         optimize="true"
@@ -57,6 +39,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jjoe64-graphview-4.2.1_75b0919cb1a69e06eb0d1918d8cee4b32213ae06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -72,6 +63,15 @@
         revision="25.0.1"
         sha1="619b7d62308ff2df985149b7e2e92334018aaf55">
         <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_21ad57142e8033e952abea9bbbc46bb9cc66665b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="P:\Android apps\Smart_Bicycle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_780421cca4a3e76fb7e9a2c57b25d64d66f1e6ca\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="74aa62bf4c47b1938840a60d21f21b33c20bc604">
+        sha1="ca973659ae814cd155270c774de0b657ed3573f9">
         <dex dex="P:\Android apps\Smart_Bicycle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3c01be6f162315ed9f467022a492f1444b7ff4c3\classes.dex" />
     </item>
     <item
